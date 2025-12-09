@@ -3,7 +3,7 @@ package validators
 import (
 	"fmt"
 
-	"github.com/gattimassimo/intent-go"
+	"github.com/agatticelli/intent-go"
 )
 
 // ValidateCommand validates a NormalizedCommand and populates errors

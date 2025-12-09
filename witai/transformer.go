@@ -5,7 +5,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/gattimassimo/intent-go"
+	"github.com/agatticelli/intent-go"
 )
 
 // transformWitResponse converts Wit.ai response to NormalizedCommand

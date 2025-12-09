@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/gattimassimo/intent-go"
-	"github.com/gattimassimo/intent-go/validators"
+	"github.com/agatticelli/intent-go"
+	"github.com/agatticelli/intent-go/validators"
 )
 
 // Processor implements intent.Processor for Wit.ai
